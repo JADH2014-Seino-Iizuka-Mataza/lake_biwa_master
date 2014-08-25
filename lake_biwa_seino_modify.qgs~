@@ -44,10 +44,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>136.15330489827280758</xmin>
-            <ymin>35.21847867815402822</ymin>
-            <xmax>136.25047869961244373</xmax>
-            <ymax>35.27487473046370781</ymax>
+            <xmin>136.16882254857665657</xmin>
+            <ymin>35.22541328837118613</ymin>
+            <xmax>136.21740944924647465</xmax>
+            <ymax>35.25361131452602592</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -379,10 +379,10 @@
                     <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
                 </edittype>
             </edittypes>
-            <editform>.</editform>
+            <editform></editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform>.</annotationform>
+            <annotationform></annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
